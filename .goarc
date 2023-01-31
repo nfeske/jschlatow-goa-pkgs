@@ -1,4 +1,4 @@
-set version(jschlatow/pkg/screenshot) 2022-10-18
+set version(nfeske/pkg/screenshot) 2023-01-31
 set version(jschlatow/pkg/unix_shell) 2022-10-18
 
 set version(jschlatow/src/vm-tc13-firefox-av) 2022-10-20
