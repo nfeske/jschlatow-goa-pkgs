@@ -6,3 +6,6 @@ nfeske/src/vfs
 nfeske/src/report_rom
 nfeske/src/global_keys_handler
 nfeske/src/sandbox
+nfeske/src/screenshot_trigger
+nfeske/src/system_rtc
+nfeske/src/dummy_rtc_drv
